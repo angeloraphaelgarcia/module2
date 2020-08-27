@@ -3,7 +3,7 @@
     height: 20px;
     padding: 10px;
     text-align: left;
-    background-color: lightpink;
+    background: #f8f1f1;
     color: black;
     font-size: 12px;
     font-family: "Lucida Console", Courier, monospace;
@@ -18,7 +18,7 @@
     padding: 10px;
     font-size: 12px;
     font-family: "Lucida Console", Courier, monospace;
-    background-color: rgb(255, 253, 147);
+    background-color: white;
     margin: auto;
     border-style: ridge;
     border-color: #EEE8AA;
