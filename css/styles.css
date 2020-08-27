@@ -9,6 +9,7 @@
     font-family: "Lucida Console", Courier, monospace;
     margin: auto;
     border-style: ridge;
+    border-color: #EEE8AA;
 
 }
 #outer {
@@ -20,6 +21,8 @@
     background-color: rgb(255, 253, 147);
     margin: auto;
     border-style: ridge;
+    border-color: #EEE8AA;
+    
 }
 
 #cbox{
@@ -64,10 +67,13 @@
     border: 1px solid gray;
     margin: 8px; 
     padding: 6px;
+    border-color: #EEE8AA;
 }
 
 #container{
     text-align: center;
+    top: 100px;
+    border-color: #EEE8AA;
     
     
 }
@@ -77,6 +83,8 @@ body {
     padding:0;
     position: relative;
     top: 120px;
+    border-color: #EEE8AA;
+  
 
 }
 
